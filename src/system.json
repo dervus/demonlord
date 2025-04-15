@@ -1,7 +1,7 @@
 {
   "id": "demonlord",
-  "title": "Shadow of the Demon Lord",
-  "description": "The Shadow of the Demonlord system for FoundryVTT",
+  "title": "Skyland of the Demon Lord",
+  "description": "The Shadow of the Demonlord system for FoundryVTT (Skyland edition)",
   "version": "4.0.0",
   "authors": [
     {
@@ -139,11 +139,11 @@
   "primaryTokenAttribute": "characteristics.health",
   "secondaryTokenAttribute": null,
   "socket": true,
-  "url": "https://github.com/Xacus/demonlord",
-  "manifest": "https://github.com/Xacus/demonlord/releases/latest/download/system.json",
-  "download": "https://github.com/Xacus/demonlord/releases/download/3.0.0/system.zip",
-  "bugs": "https://github.com/Xacus/demonlord/issues",
-  "readme": "https://github.com/Xacus/demonlord/blob/master/README.md",
-  "changelog": "https://github.com/Xacus/demonlord/blob/master/CHANGELOG.md",
+  "url": "https://github.com/dervus/demonlord",
+  "manifest": "https://github.com/dervus/demonlord/releases/latest/download/system.json",
+  "download": "https://github.com/dervus/demonlord/releases/download/3.0.0/system.zip",
+  "bugs": "https://github.com/dervus/demonlord/issues",
+  "readme": "https://github.com/dervus/demonlord/blob/skyland/README.md",
+  "changelog": "https://github.com/dervus/demonlord/blob/skyland/CHANGELOG.md",
   "license": "LICENSE.txt"
 }
