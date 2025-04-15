@@ -2,7 +2,7 @@
   "id": "demonlord",
   "title": "Skyland of the Demon Lord",
   "description": "The Shadow of the Demonlord system for FoundryVTT (Skyland edition)",
-  "version": "4.0.0",
+  "version": "4.8.6",
   "authors": [
     {
       "name": "Xacus"
@@ -22,8 +22,13 @@
     "minimum": 12,
     "verified": 12
   },
-  "esmodules": ["module/demonlord.js"],
-  "styles": ["styles/demonlord.css", "module/bundle.css"],
+  "esmodules": [
+    "module/demonlord.js"
+  ],
+  "styles": [
+    "styles/demonlord.css",
+    "module/bundle.css"
+  ],
   "scripts": [],
   "packs": [
     {
